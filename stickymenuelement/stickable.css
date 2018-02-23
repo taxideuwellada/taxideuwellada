@@ -1,0 +1,9 @@
+/*
+ * CSS for stickable
+*/
+.stick {
+   margin-top: 0 !important;
+   position: fixed;
+   top: 0;
+   z-index: 10000;
+}
